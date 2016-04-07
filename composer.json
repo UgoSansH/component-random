@@ -1,0 +1,26 @@
+{
+    "name": "withouth/component-random",
+    "description": "Definition from component random string generator",
+    "type": "component",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Withouth\\Component\\Random\\": "src/Withouth/Component/Random"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ugo Sans H",
+            "email": "ugo@withouth.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php" : ">=5.4"
+    },
+    "config": {
+        "platform": {
+            "php": "5.4"
+        }
+    }
+}
