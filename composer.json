@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Withouth\\Component\\Random\\": "src/Withouth/Component/Random"
+            "Ugosansh\\Component\\Random\\": "src/Ugosansh/Component/Random"
         }
     },
     "authors": [
