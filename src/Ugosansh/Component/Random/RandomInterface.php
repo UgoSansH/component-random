@@ -1,6 +1,6 @@
 <?php
 
-namespace Withouth\Component\Random;
+namespace Ugosansh\Component\Random;
 
 
 interface RandomInterface
